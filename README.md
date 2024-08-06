@@ -2,7 +2,7 @@
 
 The Smart Parking System harnesses advanced technologies, including sensors and real-time data analysis, to streamline parking management in urban areas, significantly enhancing space utilization and user convenience.
 
-**Tools Used**: Arduino IDE - Flame sensor module - Bluetooth Module (HC-05) - Light dependent resistor (LDR) - Passive infrared sensor (PIR) - Ultrasonic sensor (HC - SR04) - Servomotor - LED - Buzzer - LCD display
+**Technologies Used**: Arduino IDE - Flame sensor module - Bluetooth Module (HC-05) - Light dependent resistor (LDR) - Passive infrared sensor (PIR) - Ultrasonic sensor (HC - SR04) - Servomotor - LED - Buzzer - LCD display
 
 <div align=center>
 <img width="614" alt="Screenshot 2024-08-06 at 5 09 33 PM" src="https://github.com/user-attachments/assets/32bdad10-7669-47e7-b744-7a1d0a85ff65">
